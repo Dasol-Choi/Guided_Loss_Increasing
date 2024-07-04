@@ -48,3 +48,12 @@ In our study, we employ a comprehensive evaluation protocol to assess machine un
 <p align="center"><img src="https://github.com/Dasol-Choi/GLI/blob/main/resources/performance.png" width=100%/></p>
 
 ## Citation
+<pre>
+@inproceedings{choi2024towards,
+  title={Towards Efficient Machine Unlearning with Data Augmentation: Guided Loss-Increasing (GLI) to Prevent the Catastrophic Model Utility Drop},
+  author={Choi, Dasol and Choi, Soora and Lee, Eunsun and Seo, Jinwoo and Na, Dongbin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={93--102},
+  year={2024}
+}
+</pre> 
